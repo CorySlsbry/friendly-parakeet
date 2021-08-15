@@ -55,9 +55,6 @@ if(typeArray.length === 0) {
 }*/
 
 
-  
-}
-
 function generatePassword(lower, upper, number, special, length) {
   generatedPassword = "";
   var typesCount = lower + upper + number + special;
