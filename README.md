@@ -11,7 +11,10 @@ As a cyber securty expert I want to generate a password by selecting criteria.
 https://coryslsbry.github.io/friendly-parakeet/
 
 ## GitHub
+https://github.com/CorySlsbry/friendly-parakeet
 
+## Screen Shot
+!(Screenshot.png)
 
 ## Contribution
 [Cory Salisbury]
