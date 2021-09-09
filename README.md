@@ -13,8 +13,5 @@ https://coryslsbry.github.io/friendly-parakeet/
 ## GitHub
 https://github.com/CorySlsbry/friendly-parakeet
 
-## Screen Shot
-!(Screenshot.png)
-
 ## Contribution
 [Cory Salisbury]
