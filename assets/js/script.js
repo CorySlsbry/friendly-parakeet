@@ -45,12 +45,9 @@ generateBtn.addEventListener("click", (element) => {
   }
 
   const passwordLengthEl = parseInt(passwordLength)
-  // const getLowerEl = getLower
-  // const getUpperEl = getUpper
-  // const getSpecialEl = getSpecial
-  // const getNumberEl = getNumber
+
   const password = generatePassword(passwordLengthEl, getLower, getUpper, getSpecial, getNumber)
-  passwordArea.innerText = password
+
   
 
 })
@@ -78,7 +75,14 @@ function generatePassword(passwordLengthEl, getLowerEl, getUpperEl, getSpecialEl
     generatedPassword += x
   
 }
-  
+
 }
-}
+
+let text = document.createTextNode('generatedPassword');
+
+const passwordText = (generatedPassword)
+document.getElementById("passwordArea").textContent = (passwordText);
+
 console.log(generatedPassword);
+}
+
